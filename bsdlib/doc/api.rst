@@ -114,6 +114,13 @@ GNSS socket data frames
    :project: nrfxlib
    :members:
 
+Bitmask values for flags in the PVT notification
+================================================
+
+.. doxygengroup:: nrf_socket_gnss_pvt_flags
+   :project: nrfxlib
+   :members:
+
 GNSS socket AGPS data frames
 ============================
 
